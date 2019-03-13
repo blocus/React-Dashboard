@@ -1,0 +1,18 @@
+.logpan{
+   width: 300px;
+   background: #FFFFFF;
+   margin: auto;
+   margin-top: 20px;
+   border-radius: 5px;
+   border: 1px solid #000000;
+   padding: 10px;
+}
+
+.logpan input, .logpan button{
+   box-sizing: border-box;
+   width: 100%;
+   border: 1px solid #cccccc;
+   border-radius: 5px;
+   height: 25px;
+
+}
